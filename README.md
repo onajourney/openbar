@@ -58,6 +58,10 @@ Each agent runs under its provider's own terms. If you use one through a subscri
 
 Ideas and issues are welcome now. Code lands here starting with the first milestone.
 
+## License
+
+MIT. See [LICENSE](LICENSE).
+
 ---
 
 openbar is an independent project. It is not affiliated with or endorsed by Anthropic, OpenAI or Google. Claude Code, Codex and Gemini CLI are their owners' products.
